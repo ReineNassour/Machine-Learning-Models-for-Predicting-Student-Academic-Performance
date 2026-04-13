@@ -1,7 +1,7 @@
 # Machine Learning Models for Predicting Student Academic Performance
 
 ## Abstract
-This study investigates the use of machine learning techniques to predict student academic performance based on educational and behavioral features. The goal is to identify factors influencing student success and support early academic intervention.
+This research aims at examining the application of machine learning approaches to forecast the performance of students academically through different education and behavioral characteristics. This helps understand the factors affecting the success of the students.
 
 ## Dataset
 The dataset used in this project is obtained from Kaggle.
